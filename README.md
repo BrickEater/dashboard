@@ -1,5 +1,9 @@
 # Dashboard
 
+13/03/23:
+Finished with the structure and now I'm adding the links in the side bar. I just realized that it is more common to create the classes in CSS and then apply them instead of creating the elements with classes in the HTML and then style the class after. I was doing it that way before and it was making a mess.
+
+
 09/03/23:
 Starting the layout of the website. I always struggle to make this without content at first but once I get this part down I think everything will be much easier. Right now I have a gap between each grid-area and I'm not sure why it's there. I'll have to fool around with the width/height of everything. I should try and remove the specific width/height of everything to see what happens.
 
