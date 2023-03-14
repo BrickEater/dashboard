@@ -1,5 +1,8 @@
 # Dashboard
 
+14/03/23:
+Added style and spacing to the links in the sidebar. Pretty simple stuff to do and I'm happy that things are so straight forward now. I does feel like the basics aren't a problem anymore.
+
 13/03/23:
 Finished with the structure and now I'm adding the links in the side bar. I just realized that it is more common to create the classes in CSS and then apply them instead of creating the elements with classes in the HTML and then style the class after. I was doing it that way before and it was making a mess.
 
